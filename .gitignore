@@ -1,1 +1,6 @@
 .vscode
+
+airflow/config
+
+
+airflow/logs
