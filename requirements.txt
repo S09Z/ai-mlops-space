@@ -1,0 +1,8 @@
+tensorflow
+torch
+dvc
+mlflow
+ipywidgets
+jupyterlab
+tensorboard
+datadog
